@@ -59,7 +59,7 @@ It offers **Admin and User Modes**, **multi-threaded real flood attacks**, **pro
 ```bash
 apt update -y && apt upgrade -y
 apt install git python -y
-git clone https://github.com/vampiresquad/Vampire-DDOS-X.git
-cd Vampire-DDOS-X
+git clone https://github.com/vampiresquad/Vampire-DDOS-X.git](https://github.com/muhammadshourovmiah/404_Vampire-DDos-X.git
+cd 404_Vampire-DDos-X
 chmod +x install.sh
 ./install.sh
